@@ -23,8 +23,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Microsoft Azure Subscription
 - Resource Group    
 - Virtural Machine(VM)
-- Item 4
-- Item 5
 <h2>Installation Steps</h2>
 
 ![image](https://github.com/sonicfox7/osticket-prereqs/assets/171934748/a9aeb3ba-0afd-4d1d-a417-fbe77ad5714e)
@@ -117,7 +115,6 @@ MySQL Username: root
 MySQL Password: Password1
 Click “Install Now!”
 
-Congratulations, hopefully it is installed with no errors!
 Browse to your help desk login page: http://localhost/osTicket/scp/login.php
 
 End Users osTicket URL:
